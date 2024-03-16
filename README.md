@@ -5,11 +5,6 @@ I'm experimenting with GitHub to understand how people build things. I'm a write
 
 Interested in learning along with me? Check out my newsletter, [Drop-In Class](https://www.linkedin.com/newsletters/7162099914968158208/).
 Short, entertaining explainers on trending technical concepts. Like a drop-in workout!
-Past topics:
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- Unstructured data
-- Vector embedding and vector databases
 
 <!---
 gneebs/gneebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
